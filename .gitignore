@@ -1,3 +1,4 @@
 data/*
 !data/runs/
 src/yolov5/
+.vscode/*
