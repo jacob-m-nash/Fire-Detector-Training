@@ -1,4 +1,4 @@
-# Fire-Detector
+# Fire-Detector-Training
 YOLO model training for fire safety equipment detection.
 
 ## Data set
