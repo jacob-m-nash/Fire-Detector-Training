@@ -1,4 +1,5 @@
 data/*
 !data/runs/
-src/yolov5/
 .vscode/*
+src/runs/*
+src/yolov7/
