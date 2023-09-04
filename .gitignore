@@ -3,3 +3,5 @@ data/*
 .vscode/*
 src/runs/*
 src/yolov7/
+*.pt
+!best.pt
